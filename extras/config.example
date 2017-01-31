@@ -1,0 +1,6 @@
+# uncomment for staging
+#CA="https://acme-staging.api.letsencrypt.org/directory"
+#Edit your email below
+CONTACT_EMAIL=your-email@domain.com
+
+
